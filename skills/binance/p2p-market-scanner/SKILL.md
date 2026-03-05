@@ -1,9 +1,9 @@
 ---
-name: p2p-market-scanner
+title: P2P Market Scanner
 description: Scan Binance P2P marketplace for best buy/sell offers across multiple fiat currencies and crypto assets with merchant quality metrics.
 metadata:
-  version: 1.0.0
-  author: Community
+  version: "1.0.0"
+  author: mefai-dev
 license: MIT
 ---
 
