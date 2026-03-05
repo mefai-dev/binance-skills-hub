@@ -1,9 +1,9 @@
 ---
-name: convert-best-rate
+title: Convert Best Rate
 description: Compare crypto conversion rates across Binance spot market, P2P marketplace, and Convert service to find the best exchange rate for any pair.
 metadata:
-  version: 1.0.0
-  author: Community
+  version: "1.0.0"
+  author: mefai-dev
 license: MIT
 ---
 
