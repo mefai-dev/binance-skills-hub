@@ -1,9 +1,9 @@
 ---
-name: tax-report-assistant
+title: Tax Report Assistant
 description: Generate tax reports from Binance trade history using account snapshots and trade list SAPI endpoints with FIFO/LIFO/average cost basis methods.
 metadata:
-  version: 1.0.0
-  author: Community
+  version: "1.0.0"
+  author: mefai-dev
 license: MIT
 ---
 
