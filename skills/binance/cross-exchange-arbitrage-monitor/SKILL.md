@@ -1,14 +1,10 @@
 ---
-name: Cross-Exchange Arbitrage Monitor
+title: Cross-Exchange Arbitrage Monitor
 description: Monitor real-time price deviations across the 8 exchanges that feed Binance's futures index price. Detect cross-exchange arbitrage opportunities by comparing constituent exchange prices against the weighted index, with spread tracking and deviation alerts.
-tags:
-  - Binance
-  - Futures
-  - Arbitrage
-  - Cross-Exchange
-  - Index Price
-  - Market Microstructure
-author: Binance Community
+metadata:
+  version: "1.0.0"
+  author: mefai-dev
+license: MIT
 ---
 
 # Cross-Exchange Arbitrage Monitor
