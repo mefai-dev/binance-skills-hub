@@ -1,31 +1,10 @@
 ---
-name: AI Market Intelligence Feed
+title: AI Market Intelligence Feed
 description: Real-time natural language market analysis engine that synthesizes 6 independent analytical dimensions across Binance futures markets into prioritized, human-readable intelligence events — like a Bloomberg Terminal analyst watching the market 24/7
-author: mefai-dev
-tags:
-  - ai-intelligence
-  - natural-language
-  - market-analysis
-  - multi-signal-synthesis
-  - real-time-alerts
-  - composite-intelligence
-  - binance-exclusive
-category: analytics
-difficulty: advanced
-binance_products:
-  - Futures
-  - Spot
-api_endpoints:
-  - GET /fapi/v1/ticker/24hr
-  - GET /fapi/v1/premiumIndex
-  - GET /fapi/v1/ticker/bookTicker
-  - GET /api/v3/ticker/bookTicker
-  - GET /futures/data/globalLongShortAccountRatio
-  - GET /futures/data/topLongShortAccountRatio
-  - GET /futures/data/topLongShortPositionRatio
-  - GET /futures/data/takerlongshortRatio
-  - GET /futures/data/openInterestHist
-auth_required: false
+metadata:
+  version: "1.0.0"
+  author: mefai-dev
+license: MIT
 ---
 
 # AI Market Intelligence Feed
