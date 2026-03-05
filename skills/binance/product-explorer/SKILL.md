@@ -1,9 +1,9 @@
 ---
-name: product-explorer
+title: Product Explorer
 description: Binance product and asset explorer. Uses the public product list API to browse all trading products with live prices, circulating supply, quote volume, and metadata.
 metadata:
-  version: 1.0.0
-  author: MEFAI
+  version: "1.0.0"
+  author: mefai-dev
 license: MIT
 ---
 
