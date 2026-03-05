@@ -1,9 +1,9 @@
 ---
-name: funding-rate-scanner
+title: Funding Rate Scanner
 description: Scan all Binance USDM Futures funding rates to find extreme positive/negative rates for arbitrage and sentiment analysis.
 metadata:
-  version: 1.0.0
-  author: Community
+  version: "1.0.0"
+  author: mefai-dev
 license: MIT
 ---
 
