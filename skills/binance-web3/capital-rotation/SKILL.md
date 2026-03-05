@@ -1,12 +1,13 @@
 ---
-name: capital-rotation
+title: Capital Rotation
 description: |
   Track capital flow between crypto sectors in real-time. Detect when smart money
   rotates from Meme → AI → RWA → DePIN by monitoring sector-level market cap changes,
   volume shifts, and momentum. Uses CoinGecko Categories API (free, no auth).
 metadata:
-  author: mefai-dev
   version: "1.0"
+  author: mefai-dev
+license: MIT
 ---
 
 # Capital Rotation Radar
