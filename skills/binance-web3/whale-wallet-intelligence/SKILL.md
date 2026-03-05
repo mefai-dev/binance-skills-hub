@@ -1,5 +1,5 @@
 ---
-name: whale-wallet-intelligence
+title: Whale Wallet Intelligence
 description: |
   Discover, profile, and track high-performing on-chain wallets (whales, smart money, KOLs).
   Combines the PnL leaderboard, wallet position tracking, and smart money signal APIs into a
@@ -7,8 +7,9 @@ description: |
   Use this skill when users ask about whale activity, top trader wallets, copy trading,
   smart money portfolios, or want to follow successful on-chain traders.
 metadata:
-  author: mefai-dev
   version: "1.0"
+  author: mefai-dev
+license: MIT
 ---
 
 # Whale Wallet Intelligence Skill
