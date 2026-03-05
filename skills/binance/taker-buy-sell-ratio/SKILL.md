@@ -1,9 +1,9 @@
 ---
-name: taker-buy-sell-ratio
+title: Taker Buy Sell Ratio
 description: Monitor taker buy/sell volume ratios across Binance USDM Futures to identify aggressive buying or selling pressure in real-time.
 metadata:
-  version: 1.0.0
-  author: Community
+  version: "1.0.0"
+  author: mefai-dev
 license: MIT
 ---
 
