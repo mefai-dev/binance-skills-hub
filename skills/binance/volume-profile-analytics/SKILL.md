@@ -1,9 +1,9 @@
 ---
-name: volume-profile-analytics
+title: Volume Profile Analytics
 description: Analyze volume distribution between Binance Spot and Futures markets to identify speculative activity and institutional flow patterns.
 metadata:
-  version: 1.0.0
-  author: Community
+  version: "1.0.0"
+  author: mefai-dev
 license: MIT
 ---
 
