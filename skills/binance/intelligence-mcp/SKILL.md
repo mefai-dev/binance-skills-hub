@@ -1,15 +1,10 @@
 ---
-name: intelligence-mcp
-description: |
-  Computed intelligence tools for Binance futures markets. Combines multiple public Binance API endpoints
-  into derived analytics: accumulation detection, whale trade scanning, market impact simulation,
-  smart money positioning, candlestick pattern recognition, pair correlation, regime classification, and DCA backtesting.
-  Use this skill when users ask about market conditions, smart money activity, accumulation signals,
-  whale trades, order book impact, candlestick patterns, asset correlations, market regime, or DCA strategy comparison.
-  All endpoints are public — no API keys required.
+title: Binance Intelligence MCP
+description: 8 computed intelligence tools for Binance futures markets. Combines multiple public API endpoints into derived analytics including accumulation detection, whale trade scanning, market impact simulation, smart money radar, candlestick pattern recognition, pair correlation matrix, market regime classification, and DCA backtesting. Use this skill when users ask about market conditions, smart money activity, accumulation signals, whale trades, order book slippage, candlestick patterns, asset correlations, market regime, or DCA vs lump-sum strategy comparison. All endpoints are public and no API keys are required.
 metadata:
-  author: mefai-dev
   version: "1.0.0"
+  author: mefai-dev
+license: MIT
 ---
 
 # Binance Intelligence MCP Skill
