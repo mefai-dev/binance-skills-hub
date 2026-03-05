@@ -1,9 +1,9 @@
 ---
-name: wallet-risk-score
+title: Wallet Risk Score
 description: Assess wallet/address security risk using GoPlus address security API with 20 risk flags including cybercrime, phishing, money laundering, and sanctions detection.
 metadata:
-  version: 1.0.0
-  author: Community
+  version: "1.0.0"
+  author: mefai-dev
 license: MIT
 ---
 
