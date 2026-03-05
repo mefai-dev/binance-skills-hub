@@ -1,22 +1,14 @@
 ---
-name: dexscreener-intelligence
-description: >
+title: Dexscreener Intelligence
+description: |
   Leverage DexScreener's public API to discover new token listings, search DEX pairs across
   multiple chains, analyze on-chain trading activity (buys/sells/volume), and track token
   profiles with social links and branding data. Combines pair-level metrics with profile
   intelligence for comprehensive DEX token analysis.
 metadata:
-  category: dex-analytics
-  tags:
-    - dexscreener
-    - dex
-    - token-discovery
-    - on-chain
-    - multi-chain
   version: "1.0.0"
   author: mefai-dev
-  api_type: public
-  authentication: none
+license: MIT
 ---
 
 # DexScreener Intelligence
