@@ -1,9 +1,9 @@
 ---
-name: api-maintenance-monitor
+title: API Maintenance Monitor
 description: Binance API and system maintenance status monitor. Tracks scheduled maintenance windows, API changes, system updates, and incident resolution announcements.
 metadata:
-  version: 1.0.0
-  author: MEFAI
+  version: "1.0.0"
+  author: mefai-dev
 license: MIT
 ---
 
