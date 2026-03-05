@@ -1,9 +1,9 @@
 ---
-name: margin-interest-optimizer
+title: Margin Interest Optimizer
 description: Binance Margin interest rate comparison across VIP tiers. Public endpoint, no authentication required. Shows daily and yearly rates for all margin assets.
 metadata:
-  version: 1.0.0
-  author: MEFAI
+  version: "1.0.0"
+  author: mefai-dev
 license: MIT
 ---
 
