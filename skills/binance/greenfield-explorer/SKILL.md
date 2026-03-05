@@ -1,9 +1,9 @@
 ---
-name: greenfield-explorer
+title: Greenfield Explorer
 description: BNB Greenfield decentralized storage explorer. Browse buckets, objects, and storage provider status on BNB Greenfield network.
 metadata:
-  version: 1.0.0
-  author: MEFAI
+  version: "1.0.0"
+  author: mefai-dev
 license: MIT
 ---
 
