@@ -1,10 +1,9 @@
 ---
-name: market-regime-classifier
+title: Market Regime Classifier
 description: Multi-factor market regime classification engine that analyzes trend strength, volatility, and volume dynamics to classify the current market state of each pair as Trending, Ranging, Volatile Breakout, or Low Activity, helping traders select the right strategy for current conditions.
 metadata:
-  version: 1.0.0
+  version: "1.0.0"
   author: mefai-dev
-  display_name: Market Regime Classifier
 license: MIT
 ---
 
