@@ -1,10 +1,9 @@
 ---
-name: candlestick-pattern-scanner
+title: Candlestick Pattern Scanner
 description: Real-time candlestick pattern recognition engine that scans 15 major Binance spot pairs across multiple timeframes, detecting 8 classic reversal and continuation patterns with confidence scoring.
 metadata:
-  version: 1.0.0
+  version: "1.0.0"
   author: mefai-dev
-  display_name: Candlestick Pattern Scanner
 license: MIT
 ---
 
