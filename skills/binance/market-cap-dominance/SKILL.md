@@ -1,9 +1,9 @@
 ---
-name: market-cap-dominance
+title: Market Cap Dominance
 description: Binance market cap dominance tracker. Uses the public marketing symbol list API to show BTC/ETH/BNB dominance, market cap rankings, price changes, and sector allocation.
 metadata:
-  version: 1.0.0
-  author: MEFAI
+  version: "1.0.0"
+  author: mefai-dev
 license: MIT
 ---
 
