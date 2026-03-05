@@ -1,9 +1,9 @@
 ---
-name: earn-product-comparator
+title: Earn Product Comparator
 description: Compare Binance Simple Earn flexible and locked staking products with APY rates, minimum amounts, and duration options using SAPI signed endpoints.
 metadata:
-  version: 1.0.0
-  author: Community
+  version: "1.0.0"
+  author: mefai-dev
 license: MIT
 ---
 
