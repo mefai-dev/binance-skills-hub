@@ -1,13 +1,14 @@
 ---
-name: contract-mutation
+title: Contract Mutation
 description: |
   Monitor proxy/upgradeable smart contracts for mutations — detect when a "safe" contract
   gets upgraded with dangerous new functions (mint, blacklist, setTax). Combines Etherscan V2 API
   (proxy detection, source code, ABI) with GoPlus Security (runtime safety checks).
   Bridges the gap between one-time audits and ongoing contract monitoring.
 metadata:
-  author: mefai-dev
   version: "1.0"
+  author: mefai-dev
+license: MIT
 ---
 
 # Contract Mutation Monitor
