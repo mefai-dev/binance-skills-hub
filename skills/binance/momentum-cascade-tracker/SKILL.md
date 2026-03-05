@@ -1,22 +1,10 @@
 ---
-name: Momentum Cascade Tracker
+title: Momentum Cascade Tracker
 description: Track how price momentum propagates across crypto assets in real-time, identifying which coins lead, lag, amplify, or diverge from BTC-driven market moves
-author: mefai-dev
-tags:
-  - momentum
-  - cross-asset
-  - correlation
-  - lead-lag
-  - cascade-analysis
-category: analytics
-difficulty: advanced
-binance_products:
-  - Spot
-  - Futures
-api_endpoints:
-  - GET /api/v3/ticker
-  - GET /fapi/v1/ticker/24hr
-auth_required: false
+metadata:
+  version: "1.0.0"
+  author: mefai-dev
+license: MIT
 ---
 
 # Momentum Cascade Tracker
