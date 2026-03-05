@@ -1,10 +1,9 @@
 ---
-name: market-impact-simulator
+title: Market Impact Simulator
 description: Order book walk-through simulator that calculates real market impact, slippage, and execution cost for any trade size on Binance spot pairs using full depth data.
 metadata:
-  version: 1.0.0
-  author: MEFAI
-  display_name: Market Impact Simulator
+  version: "1.0.0"
+  author: mefai-dev
 license: MIT
 ---
 
