@@ -1,10 +1,10 @@
 ---
-name: "Funding Rate Alert"
+title: Funding Rate Alert
 description: "Real-time funding rate arbitrage opportunities with annualized APR calculations"
-category: "trading"
-api_type: "REST"
-auth_required: false
-data_source: "Binance Futures"
+metadata:
+  version: "1.0.0"
+  author: mefai-dev
+license: MIT
 ---
 
 # Funding Rate Alert
