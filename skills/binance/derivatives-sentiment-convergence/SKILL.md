@@ -1,15 +1,10 @@
 ---
-name: Derivatives Sentiment Convergence Engine
+title: Derivatives Sentiment Convergence Engine
 description: Combine 6 independent derivatives sentiment indicators into a single convergence score to identify high-conviction trading signals. Cross-references retail vs. whale positioning, taker order flow, funding rates, and open interest changes to detect when multiple signals align or diverge.
-tags:
-  - Binance
-  - Futures
-  - Sentiment
-  - Convergence
-  - Smart Money
-  - Retail vs Whale
-  - Derivatives Analytics
-author: Binance Community
+metadata:
+  version: "1.0.0"
+  author: mefai-dev
+license: MIT
 ---
 
 # Derivatives Sentiment Convergence Engine
