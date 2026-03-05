@@ -1,16 +1,10 @@
 ---
-name: Futures Term Structure Analyzer
+title: Futures Term Structure Analyzer
 description: Analyze the futures term structure by combining basis rate data, quarterly delivery settlement prices, and exchange information. Detect contango and backwardation regimes, track annualized carry yield, and monitor quarterly settlement cycles across all Binance USDM Futures pairs.
-tags:
-  - Binance
-  - Futures
-  - Term Structure
-  - Basis
-  - Contango
-  - Backwardation
-  - Carry Trade
-  - Quarterly Settlement
-author: Binance Community
+metadata:
+  version: "1.0.0"
+  author: mefai-dev
+license: MIT
 ---
 
 # Futures Term Structure Analyzer
