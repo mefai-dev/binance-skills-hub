@@ -1,9 +1,9 @@
 ---
-name: spread-liquidity-monitor
+title: Spread Liquidity Monitor
 description: Compare bid-ask spreads and liquidity depth between Binance Spot and USDM Futures markets to assess trading costs and market efficiency.
 metadata:
-  version: 1.0.0
-  author: Community
+  version: "1.0.0"
+  author: mefai-dev
 license: MIT
 ---
 
