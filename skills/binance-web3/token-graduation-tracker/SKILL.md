@@ -1,5 +1,5 @@
 ---
-name: token-graduation-tracker
+title: Token Graduation Tracker
 description: |
   Track tokens through their lifecycle from Pulse launchpad launch to Binance Alpha listing
   and potential CEX promotion. Combines Meme Rush (new launches), Meme Rank (breakout scoring),
@@ -8,8 +8,9 @@ description: |
   Use this skill when users ask about new token launches, Alpha candidates, graduation potential,
   token lifecycle, or which meme tokens might get listed on Binance.
 metadata:
-  author: mefai-dev
   version: "1.0"
+  author: mefai-dev
+license: MIT
 ---
 
 # Token Graduation Tracker Skill
