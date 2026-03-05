@@ -1,9 +1,9 @@
 ---
-name: trade-journal
+title: Trade Journal
 description: Automated trade journaling from Binance trade history with win rate, holding period analysis, PnL breakdown, and performance metrics using myTrades API.
 metadata:
-  version: 1.0.0
-  author: Community
+  version: "1.0.0"
+  author: mefai-dev
 license: MIT
 ---
 
