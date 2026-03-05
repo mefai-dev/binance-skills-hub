@@ -1,9 +1,9 @@
 ---
-name: ath-distance-tracker
+title: ATH Distance Tracker
 description: Binance ATH/ATL distance tracker. Uses the marketing symbol list to show how far each coin is from its all-time high and all-time low, with visual distance indicators.
 metadata:
-  version: 1.0.0
-  author: MEFAI
+  version: "1.0.0"
+  author: mefai-dev
 license: MIT
 ---
 
