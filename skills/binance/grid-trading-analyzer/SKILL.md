@@ -1,9 +1,9 @@
 ---
-name: grid-trading-analyzer
+title: Grid Trading Analyzer
 description: Analyze optimal grid trading parameters using Binance spot kline data with ATR, Bollinger Band, and historical volatility calculations.
 metadata:
-  version: 1.0.0
-  author: Community
+  version: "1.0.0"
+  author: mefai-dev
 license: MIT
 ---
 
