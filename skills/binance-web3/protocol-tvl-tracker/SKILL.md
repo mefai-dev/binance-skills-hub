@@ -1,13 +1,14 @@
 ---
-name: protocol-tvl-tracker
+title: Protocol TVL Tracker
 description: |
   BSC DeFi protocol rankings by Total Value Locked (TVL). Fetches protocol data from DefiLlama,
   filters for BSC presence, and ranks by BSC-specific TVL.
   Use this skill when users ask about BSC DeFi rankings, protocol TVL, top DeFi on BNB Chain,
   or TVL comparisons between protocols.
 metadata:
-  author: binance-web3-team
   version: "1.0"
+  author: mefai-dev
+license: MIT
 ---
 
 # Protocol TVL Tracker Skill
